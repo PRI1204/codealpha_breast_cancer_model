@@ -1,4 +1,4 @@
-# Code_Alpha_Disease Prediction from Medical Data
+# CodeAlpha Disease Prediction from Medical Data
 ---
 
 # 🩺 Breast Cancer Data Analysis & Exploration
