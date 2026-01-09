@@ -1,8 +1,8 @@
 # 🩺 Breast Cancer Data Analysis & Exploration
 
 ## 📌 Project Overview
-This project focuses on predicting whether a breast tumor is cancerous or non-cancerous using diagnostic features. By accurately classifying tumors at an early stage, the project helps doctors make better treatment decisions and improves patient care.
----
+This project focuses on predicting whether a breast tumor is cancerous or non-cancerous using diagnostic features. 
+By accurately classifying tumors at an early stage, the project helps doctors make better treatment decisions and improves patient care.
 
 ## 🎯 Objective
 To build accurate machine learning classification model that distinguishes between tumor types using medical test data  and evaluates performance through statistical metrics.
@@ -38,7 +38,7 @@ To build accurate machine learning classification model that distinguishes betwe
 10. Result Analysis
 
 ## 🤖 Machine Learning Model
-**Logistic Regression & Random Forest**
+**Logistic Regression & Random Forest:**
 Logistic Regression was used as a high-performing baseline for binary classification, while Random Forest was implemented to capture complex feature interactions.
 
 ## 📊 Model Evaluation Metrics
