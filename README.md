@@ -1,7 +1,8 @@
 # CodeAlpha Disease Prediction from Medical Data
----
+A machine learning approach for identifying diseases by analyzing patient records with classification techniques
 
 # 🩺 Breast Cancer Data Analysis & Exploration
+
 
 ## 📌 Project Overview
 This project focuses on predicting whether a breast tumor is cancerous or non-cancerous using diagnostic features. 
