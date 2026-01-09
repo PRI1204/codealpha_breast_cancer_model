@@ -1,5 +1,7 @@
-# 🩺 Breast Cancer Data Analysis & Exploration
+# Code_Alpha_Disease Prediction from Medical Data
 ---
+
+# 🩺 Breast Cancer Data Analysis & Exploration
 
 ## 📌 Project Overview
 This project focuses on predicting whether a breast tumor is cancerous or non-cancerous using diagnostic features. 
